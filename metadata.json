@@ -1,0 +1,6 @@
+{
+  "name": "Bahati Spin",
+  "description": "Lucky Wheel of Fortune game hosted by beautiful Presentess Amina inside the wheel center hub with custom WhatsApp redirect claims.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
