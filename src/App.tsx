@@ -31,10 +31,10 @@ const WHEEL_SECTORS: Sector[] = [
 ];
 
 const DEFAULT_SETTINGS: AppSettings = {
-  whatsappNumber: "255718009830", // Swahili Betting Admin WhatsApp
+  whatsappNumber: "255669701398", // Swahili Betting Admin WhatsApp
   customHostName: "Amina",
-  customMessageTemplate: "Hello Amina! I was spinning Amina's Wheel of Fortune and won FREE ODDS ({ODDS}). Please send me my free betting code now!",
-  vipComboTemplate: "Hello Amina! I saw your VIP Combo on the lucky app. Can I please get the daily high-odds premium slip details?",
+  customMessageTemplate: "Hello Prime 2008 Admin! I was spinning Amina's Wheel of Fortune and won FREE ODDS ({ODDS}). Please send me my free betting code now!",
+  vipComboTemplate: "Hello Prime 2008 Admin! I saw your VIP Combo on the lucky app. Can I please get the daily high-odds premium slip details?",
   enableSoundEffects: true,
 };
 
