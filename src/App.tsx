@@ -263,7 +263,7 @@ export default function App() {
     setShareCount(nextCount);
 
     // Dynamic Whatsapp share landing
-    const appLink = "https://www.appcreator24.com/app4084811-v3nbws";
+    const appLink = "https://www.appcreator24.com/app4216915-gh5lzc";
     const shareMessage = `Hey! Check out this free lucky spin game from beautiful Hostess Amina! I just won free high-odds matches code. Spin yours now for free here: ${appLink}`;
     
     // Open Whatsapp share trigger
